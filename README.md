@@ -12,8 +12,7 @@
 
 
 ```C++
-int cbinsearch(int *arr, int size, int value)
-{
+int cbinsearch(int *arr, int size, int value) {
 
 }
 ```
